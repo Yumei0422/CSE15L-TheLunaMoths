@@ -85,7 +85,7 @@ public class MarkdownParseTest {
 
     @Test
     public void testFails2() throws IOException{
-        assertTrue(true);
+        assertTrue(false);
     }
 }
 
